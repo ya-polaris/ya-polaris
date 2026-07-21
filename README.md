@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">👋 Opa! Aqui é a Yu</h1>
 
-<!--
-**ya-polaris/ya-polaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 😺 Sobre mim
+
+🎓 Se Formando em **Ciência da Computação**
+
+💻 Apaixonada por tecnologia e desenvolvimento de software.
+
+Desenvolvendo...
+
+🌐 Explorando o mundo do **HTML** e **CSS**.
+
+🧠 Estudiosa de **MBTI**, Eneagrama e outras tipologias da personalidade.
+
+👥 Fundadora de uma comunidade voltada para estudos sobre MBTI e desenvolvimento pessoal.
+
+---
+
+## 💻 Tecnologias
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" />
+</p>
+
+---
+
+## 📚 Atualmente estudando
+
+- 🐍 Python
+- 🌐 HTML & CSS
+- 🧑🏻‍💻 Ciência da Computação
+- ⚙️ Estrutura de Dados
+- 💡 Boas práticas de desenvolvimento
+
+---
+
+## 🎯 Interesses
+
+- Desenvolvimento de Software
+- Python
+- Desenvolvimento Web
+- MBTI
+- Eneagrama
+- Comunidades
+- Tecnologia
+  
+---
+
+<p align="center">
+⭐ Obrigada por visitar meu perfil!
+</p>
